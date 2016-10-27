@@ -38,7 +38,7 @@
 	
 	
 	<!-- Mysql -->
-	<entry key="jdbc_url">jdbc:mysql://127.0.0.1:3306/pan</entry>
+	<entry key="jdbc_url">jdbc:mysql://127.0.0.1:3306/pan?useUnicode=true&amp;characterEncoding=utf-8&amp;zeroDateTimeBehavior=convertToNull</entry>
 	<entry key="jdbc_driver">com.mysql.jdbc.Driver</entry>
 	
 	<!-- sybase -->
